@@ -1,0 +1,19 @@
+# Virtual environments
+drone_env/
+drone_env_windows/
+
+# AirSim local git repo
+UAV_Navigation_DRL_AirSim/.git/
+UAV_Navigation_DRL_AirSim/.gitmodules
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs_save/
+logs_eval/
+
+# OS files
+.DS_Store
+Thumbs.db
